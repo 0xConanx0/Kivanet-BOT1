@@ -1,7 +1,7 @@
 # Kiva Network BOT
 Kiva Network BOT
 
-- Register Here : [Kiva Network](https://kivanet.com/register.html?code=AOIVAI)
+- Register Here : [Kiva Network](https://kivanet.com/register.html?code=QY9D4E)
 - Use Code : AOIVAI
 - Send Email : `Verify Me` to `verify@kivanet.com` With Same Registered Email
 - Login : `https://app.kivanet.com/`
@@ -24,10 +24,10 @@ Kiva Network BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/Kivanet-BOT.git
+   git clone https://github.com/0x-Conan/Kivanet-BOT1.git
    ```
    ```bash
-   cd Kivanet-BOT
+   cd Kivanet-BOT1
    ```
 
 2. **Install Requirements:**
